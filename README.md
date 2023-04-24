@@ -3,7 +3,7 @@
   - 📚 Estudante de Análise e Desenvolvimento de Sistemas   
   - 🔎 Apaixonada por jogos e tecnologia
   - 🚀 Conhecendo um pouco de programação.
-  - 📚 Estudando Python
+  - 📚 Estudando ReactJS
 
 <div align="center">
   <a href="https://github.com/ValeskaLeandro">

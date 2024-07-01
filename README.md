@@ -1,9 +1,9 @@
 ### Olá, sou Valeska Leandro!
   - 📚 Formada em Educação Física 
-  - 📚 Estudante de Análise e Desenvolvimento de Sistemas   
+  - 📚 Formada em Análise e Desenvolvimento de Sistemas   
   - 🔎 Apaixonada por jogos e tecnologia
   - 🚀 Conhecendo um pouco de programação.
-  - 📚 Estudando NextJS e ReactJS
+  - 💻 TypeScript | ReactJS | NextJS
 
 <div align="center">
   <a href="https://github.com/ValeskaLeandro">
